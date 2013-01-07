@@ -4,7 +4,7 @@ import QtMultimedia 5.0
 Item {
     id: main
 
-    width: 300
+    width: 600
     height: 400
 
     ListModel {
@@ -14,8 +14,8 @@ Item {
         sounds: 8
       }
       ListElement{
-        assets: "assets/jono"
-        sounds: 8
+        assets: "assets/ballmer"
+        sounds: 12
       }
       ListElement{
         assets: "assets/jono"
