@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Jono
+Comment=Touch the fuzz!
+Exec=/usr/bin/qmlscene
+Icon=qmlscene
+Terminal=false
+Type=Application

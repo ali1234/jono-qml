@@ -1,6 +1,6 @@
 A Jono Bacon (and now potentially others) sound board.
 
-Usage: qmlscene board.qml
+Usage: qmlscene jono.qml
 
 Code: MIT license. http://opensource.org/licenses/MIT
 
