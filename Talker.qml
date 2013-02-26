@@ -3,8 +3,7 @@ import QtMultimedia 5.0
 
 Item {
 
-    width: 300
-    height: 400
+    anchors.fill: parent
 
     property string assets: "assets/jono"
     property int sounds: 1
