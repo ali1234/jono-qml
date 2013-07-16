@@ -2,7 +2,7 @@ A Jono Bacon (and now potentially others) sound board.
 
 Usage: qmlscene jono.qml
 
-Code: MIT license. http://opensource.org/licenses/MIT
+Code: CC0 license. See LICENSE.
 
 Jono Audio Clips: from LugRadio Season 5 Episode 19 "Finding Emo", used under Creative Commons By-SA. Compiled my Mark Johnson for JonoBoard https://github.com/marxjohnson/JonoBoard
 
